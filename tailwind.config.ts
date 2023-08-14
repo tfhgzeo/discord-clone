@@ -17,7 +17,8 @@ const config: Config = {
     colors: {
       'primary': '#37393F',
       'secundary': '#2E3036',
-      'terciary': '#202225'
+      'terciary': '#202225',
+      'transparent': 'background-color: transparent'
     }
   },
   plugins: [
